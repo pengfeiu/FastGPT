@@ -1,12 +1,5 @@
 ## 欢迎使用 Fast GPT
 
-[Git 仓库](https://github.com/c121914yu/FastGPT)
-
-### 交流群/问题反馈
-扫码满了，加个小号，定时拉
-wx号: fastgpt123
-![](/imgs/wx300.jpg)
-
 
 ### 快速开始
 1. 使用手机号注册账号。  
