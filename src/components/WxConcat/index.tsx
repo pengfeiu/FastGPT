@@ -23,7 +23,7 @@ const WxConcat = ({ onClose }: { onClose: () => void }) => {
         <ModalBody textAlign={'center'}>
           <Image
             style={{ margin: 'auto' }}
-            src={'/imgs/wx300.jpg'}
+            src={'/imgs/a.jpg'}
             width={200}
             height={200}
             alt=""
@@ -31,7 +31,7 @@ const WxConcat = ({ onClose }: { onClose: () => void }) => {
           <Box mt={2}>
             微信号:
             <Box as={'span'} userSelect={'all'}>
-              fastgpt123
+              pengfei
             </Box>
           </Box>
         </ModalBody>
